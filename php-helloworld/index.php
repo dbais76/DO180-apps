@@ -6,7 +6,9 @@
 <?php
 
 print " Presented on " . date("Y/m/d") . "<br>" ;
-print " Demos running on Red Hat OpenShift PHP Builder Image with PHP version " . PHP_VERSION .  "\n"; 
+print "<br>";
+print "<br>";
+print "Demos running on <b>Red Hat OpenShift</b> PHP Builder Image with PHP version " . PHP_VERSION .  "\n"; 
 ?>
 
 </body>
