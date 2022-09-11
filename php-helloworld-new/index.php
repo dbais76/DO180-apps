@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Welcome to Vectra OpenShift Webinar!</h1>
+
 <?php
-print "Hello, World! php version is Updated" . PHP_VERSION . "\n";
+
+print " Presented on " . date("l jS \of F Y ") . "<br>" ;
+
+print "<br>";
+print "<br>";
+print "<font color=blue size='4pt'>Demos running on <b>Red Hat OpenShift</b> PHP Builder Image with PHP version " . PHP_VERSION .  "\n"; 
 ?>
+
+</body>
+</html>
