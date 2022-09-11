@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1 style="color: green; font-size:16px">This is Green Deployment!</h1>
+<h1 style="color: green; font-size:48px">This is Green Deployment!</h1>
 <?php
 
 print "<br>";
